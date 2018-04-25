@@ -99,3 +99,4 @@ Notice also that `#detect` will always return a single object where `#select` wi
 * [Yield and Enumerables](https://www.youtube.com/watch?v=t2A6xPbh0I8&feature=youtu.be)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-search-enumerators'>Search Enumerators</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Search Enumerators</p>
